@@ -6,3 +6,5 @@ Visual Studio Code - Dark Theme - Subtle, Simple Blues tones to code in.
 ![](/screenshot.png)
 
 
+## VS Marketplace Download
+[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=webjestic.simply-blues)
