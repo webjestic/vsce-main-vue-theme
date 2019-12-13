@@ -1,0 +1,22 @@
+{
+    "name": "simply-blues",
+    "displayName": "Simply Blues (Dark)",
+    "description": "Blues Theme (Dark) with simple blues highlighting.",
+    "author": "Michael N",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "simply-blues-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/simply-blues-dark.json"
+            }
+        ]
+    }
+}

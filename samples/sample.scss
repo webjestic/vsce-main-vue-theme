@@ -1,0 +1,35 @@
+
+$background     : #0c0c0c42;
+$foreground     : #E0E0E0;
+$comment        : #FFAB40;
+$constant       : #E0E0E0;
+$emphasis       : #66BB6A;
+$entity         : #42A5F5;
+$invalid        : #E57373;
+$keyword        : #E0E0E0;
+$markup         : #26A69A;
+$meta           : #E0E0E0;
+$storage        : #E0E0E0;
+$string         : #4DD0E1;
+$strong         : #66BB6A;
+$support        : #26A69A;
+$variable       : #B3E5FC;
+$variableItalic : #B3E5FC;
+$jsonkey        : #26A69A;
+
+
+nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+  
+    li { display: inline-block; }
+  
+    a {
+      display: block;
+      padding: 6px 12px;
+      text-decoration: none;
+    }
+  }
