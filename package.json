@@ -1,0 +1,29 @@
+{
+    "name": "simply-blues",
+    "displayName": "Simply Blues (Dark)",
+    "description": "Blues Theme (Dark). Simple blues highlighting.",
+    "author": "Michael N",
+    "publisher": "webjestic",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webjestic/vscode-simply-blues-dark-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "simply-blues-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/simply-blues-dark.json"
+            }
+        ]
+    }
+}
