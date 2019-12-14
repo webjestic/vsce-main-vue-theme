@@ -1,5 +1,13 @@
 {
     "colors" : {
-        "primary" : "#FF9100"
+        "primary" : "#FF9100",
+        "language" : [
+            {
+                "javascript": "blue" 
+            },
+            {
+                "go": "orange"
+            }
+        ]
     }
 }
