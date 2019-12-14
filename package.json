@@ -2,9 +2,8 @@
     "name": "simply-blues",
     "displayName": "Simply Blues (Dark)",
     "description": "Blues Theme (Dark). Simple blues highlighting.",
-    "author": "Michael N",
     "publisher": "webjestic",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "icon.png",
     "homepage": "",
     "repository": {
@@ -20,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "simply-blues-dark",
+                "label": "simply-blues",
                 "uiTheme": "vs-dark",
                 "path": "./themes/simply-blues-dark.json"
             }
