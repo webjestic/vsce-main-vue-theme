@@ -2,8 +2,9 @@
 
 All notable changes to the "main-vue" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## v1.0.0 - 2019-12-11
+
+- Initial release to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=webjestic.simply-blues)
+
 
 ## [Unreleased]
-
-- Initial release
