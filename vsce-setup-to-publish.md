@@ -1,5 +1,7 @@
 # Visual Code Extensions
 
+Document contains notes on how to setup and publish first extension for VS. Not intended to be the complete guide, but rather, simple road signs.
+
 ## Setup
 
 [Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
