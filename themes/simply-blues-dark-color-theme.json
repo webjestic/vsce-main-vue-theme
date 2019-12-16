@@ -1,5 +1,5 @@
 {
-	"name": "main-vue",
+	"name": "simply-blues-dark",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#0c0c0c42",
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFAB40"
+				"foreground": "#FFD180"
 			}
 		},
 		{
@@ -125,7 +125,7 @@
 				"variable"
 			],
 			"settings": {
-				"foreground": "#B3E5FC"
+				"foreground": "#81D4FA"
 			}
 		},
 		{
@@ -141,8 +141,7 @@
 		{
 			"name": "JSON Key",
 			"scope": [
-				"source.json meta.structure.dictionary.json support.type.property-name.json"
-			],
+				"source.json meta.structure.dictionary.json support.type.property-name.json"			],
 			"settings": {
 				"foreground": "#26A69A"
 			}

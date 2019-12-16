@@ -7,6 +7,8 @@ All notable changes to the "main-vue" extension will be documented in this file.
 ## Modified
 
 - vsce-setup-to-publish.md | Comments added, indicating purpose of file.
+- Renamed theme file to include "-color-theme.json", to allow swatches to be shown.
+- Dialed down the loud color tone of comments.
 
 ### Added
 
